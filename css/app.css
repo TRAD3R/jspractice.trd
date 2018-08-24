@@ -104,9 +104,6 @@ header h1 {
     margin: 1rem auto;
 }
 
-
-
-/* Todo Item */
 .todo-item {
     display: flex;
     font-size: 1rem;
@@ -156,10 +153,6 @@ header h1 {
 .todo-item:hover button:not(.checkbox) {
     opacity: 1;
 }
-
-
-
-/* Todo form */
 
 #todo-form {
     display: flex;
